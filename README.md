@@ -2,6 +2,8 @@ Hi! I’m William, but you'll usually find me as Pixelstories instead. I'm a fre
 
 ---
 
-You can find some of my art or contact me on [Twitter](https://twitter.com/pixelstoriez)!
+You can contact me:
+- [on Twitter](https://twitter.com/pixelstoriez)
+- [on Discord](https://github.com/pixelstoriez/pixelstoriez/blob/main/DISCORD.md)
 
 ---
